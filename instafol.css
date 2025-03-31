@@ -1,0 +1,105 @@
+body{
+  font-style:sans-serif;
+}
+.insta{
+  width:100px;
+  height:auto;
+  display:inline-block;
+}
+h1{
+  font-style:italic;
+  display:inline-block;
+  margin-top:20%;
+  margin-left:5%;
+}
+.ins{
+  display:inline-block;
+}
+.top{
+  display:flex;
+  margin-left:14%;
+}
+.photo{
+  width:100px;
+  height:auto;
+}
+.login-div{
+  text-align:center;
+  margin-top:30px;
+  background:white;
+  border:2px solid #E15C2C;
+  padding-top:20px;
+  padding-bottom:20px;
+  border-radius:20px;
+  width:80%;
+  margin-left:10%;
+}
+.user{
+  width:150px;
+  height:30px;
+  font-style:italic;
+  border:2px solid #10DEB4;
+  text-align:center;
+  border-radius:15px;
+}
+.user:focus{
+  transition:1s;
+  outline:none;
+  border:2px solid #FC134CFC;
+}
+.pass{
+  width:150px;
+  height:30px;
+  font-style:italic;
+  border:2px solid #10DEB4;
+  text-align:center;
+  border-radius:15px;
+}
+.pass:focus{
+  transition:1s;
+  outline:none;
+  border:2px solid #FC134CFC;
+ }
+.next{
+  padding:10px 20px;
+  background:#BF13FCFC;
+  color:white;
+  border:none;
+  border-radius:15px;
+}
+h3{
+  font-size:15px;
+  text-align:center;
+}
+.many{
+  width:100px;
+  height:30px;
+  border:2px solid #FC134CFC;
+  border-radius:15px;
+  margin-left:35%;
+  text-align:center;
+  background:white;
+  font-size:20px;
+}
+.many:focus{
+  outline:none;
+}
+h4{
+  color:black;
+  display:flex;
+  text-align:center;
+  font-size:12px;
+  margin-left:30%;
+  margin-top:50px;
+}
+.privacy{
+  text-align:center;
+  font-size:15px;
+  margin-top:25px;
+}
+.result{
+  color:red;
+  font-size:14px;
+  margin-bottom:15px;
+  text-align:center;
+}
